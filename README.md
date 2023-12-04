@@ -1,4 +1,4 @@
-TextGPT4V: Enhancing Visual Instruction Tuning with GPT-4V: Advancements in Text-Rich Image Understanding
+# TextGPT4V: Enhancing Visual Instruction Tuning with GPT-4V: Advancements in Text-Rich Image Understanding
 
 ⭐️ [**To support the hard work, consider leaving a star !**](https://github.com/Etelis/Enhancing-Visual-Instruction-Tuning-with-GPT-4V-Advancements-in-Text-Rich-Image-Understanding)
 
