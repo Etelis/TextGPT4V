@@ -5,7 +5,7 @@
 ---
 
 Official Release **TextGPT4V: Enhancing Visual Instruction Tuning with GPT-4V: Advancements in Text-Rich Image Understanding**.
-![Add a little bit of body text](https://github.com/Etelis/TextGPT4V/assets/92247226/71c28617-c5ac-4f60-b5c5-586259d458fa)
+![Add a little bit of body text](https://github.com/Etelis/TextGPT4V/assets/92247226/70934a84-874f-494d-8374-e38b59d12902)
 
 
 
